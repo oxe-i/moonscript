@@ -411,6 +411,14 @@
         "difficulty": 4
       },
       {
+        "slug": "roman-numerals",
+        "name": "Roman Numerals",
+        "uuid": "aba11cef-9ce8-4191-adb2-66d980f15ddf",
+        "practices": [],
+        "prerequisites": [],
+        "difficulty": 4
+      },
+      {
         "slug": "run-length-encoding",
         "name": "Run-Length Encoding",
         "uuid": "909d5671-60a1-498f-80ce-82d6e0b88465",
